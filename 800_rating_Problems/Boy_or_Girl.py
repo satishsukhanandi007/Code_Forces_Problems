@@ -1,6 +1,6 @@
 user_name = input()
-
 diff_char = len(user_name)
+
 for i in range(97,123):
     count_letter = user_name.count(chr(i))
     if count_letter > 1:
