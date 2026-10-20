@@ -11,7 +11,6 @@ else:
 
 
 # The Process
-
 # for i in range(len(str1)):
 #     if str1[i] != str2[i]:
 #         if str1[i] > str2[i]:
